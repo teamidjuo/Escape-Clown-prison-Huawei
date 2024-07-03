@@ -1,15 +1,15 @@
 {
-  "our_ads1_activation":"false",
-  "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/GrannyPolice1.png",
-  "our_ads1_link_url":"https://play.google.com/store/apps/details?id=",
+  "our_ads1_activation":"true",
+  "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/JaxyCircus2.png",
+  "our_ads1_link_url":"appmarket://details?id=com.huaw.escape.jaxy.digital.prison",
 
-  "our_ads2_activation":"false",
-  "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/barbygranny.png",
-  "our_ads2_link_url":"",
+  "our_ads2_activation":"true",
+  "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/JaxyCircus.png",
+  "our_ads2_link_url":"appmarket://details?id=com.huaw.escape.jaxy.digital.prison",
 
-  "our_ads3_activation":"false",
-  "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/barry8.png",
-  "our_ads3_link_url":"",
+  "our_ads3_activation":"true",
+  "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/GrannyPoliceAd1.png",
+  "our_ads3_link_url":"appmarket://details?id=com.huaw.idjuo.granny.police",
 
   "our_ads_inter_activation":"true",
   "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamIdjuo/Escape-Clown-prison-Huawei/main/rateUs.png",
